@@ -102,3 +102,4 @@ class BertAlert {
 }
 
 Bert = new BertAlert();
+export default Bert;
